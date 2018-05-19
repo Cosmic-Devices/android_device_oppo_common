@@ -39,8 +39,7 @@ public class Constants {
     public static final String OCLICK_DISCONNECT_ALERT_KEY = "oclick_disconnect_alert";
     public static final String TOUCHSCREEN_CAMERA_GESTURE_KEY = "touchscreen_gesture_camera";
     public static final String TOUCHSCREEN_MUSIC_GESTURE_KEY = "touchscreen_gesture_music";
-    public static final String TOUCHSCREEN_FLASHLIGHT_GESTURE_KEY =
-            "touchscreen_gesture_flashlight";
+    public static final String TOUCHSCREEN_FLASHLIGHT_GESTURE_KEY = "touchscreen_gesture_flashlight";
     public static final String BUTTON_SWAP_KEY = "button_swap";
     public static final String NOTIF_SLIDER_TOP_KEY = "keycode_top_position";
     public static final String NOTIF_SLIDER_MIDDLE_KEY = "keycode_middle_position";
